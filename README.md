@@ -1,0 +1,2 @@
+# AI-Teaching-Assistant
+RAG MODEL WITH LOCAL CHROMA DB 
