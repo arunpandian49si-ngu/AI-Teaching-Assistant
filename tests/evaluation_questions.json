@@ -1,0 +1,20 @@
+
+[
+    {
+        "question": "What is Artificial Intelligence?",
+        "expected_answer": "Artificial Intelligence is the ability of machines to perform tasks that normally require human intelligence.",
+        "expected_keywords": [
+            "machines",
+            "human intelligence"
+        ]
+    },
+    {
+        "question": "What is Machine Learning?",
+        "expected_answer": "Machine Learning is a branch of AI that allows computers to learn from data.",
+        "expected_keywords": [
+            "AI",
+            "learn",
+            "data"
+        ]
+    }
+]

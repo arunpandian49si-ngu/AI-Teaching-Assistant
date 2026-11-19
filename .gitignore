@@ -1,0 +1,27 @@
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# ChromaDB local storage
+chroma_db/
+chroma/
+*.sqlite3
+
+# Uploaded documents
+uploads/
+data/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
